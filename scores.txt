@@ -1,0 +1,5 @@
+Player1SampleName
+Player2SampleName
+winner: Player1SampleName
+winner: Player1SampleName
+numberwinner: 
